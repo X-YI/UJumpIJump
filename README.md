@@ -1,6 +1,10 @@
 # UJumpIJump
 微信跳一跳手动计算
 
+核心数据文件，计算每个关键点坐标: 
+![alt text](https://github.com/X-YI/UJumpIJump/blob/master/UJumpIJump.png "Kernal Concat Image File")
+
+
 给出了核心计算公式：
 
 time = dis * 1.26919674730879 + 119.103504309833
