@@ -12,6 +12,7 @@ time = dis * 1.26919674730879 + 119.103504309833
 核心指令：
 
 ➜  ~ adb exec-out screencap -p > ./screen.png && open screen.png
+
 ➜  ~ adb shell input swipe 800 1300 700 1200 【time】
 
 测量过程参见:
