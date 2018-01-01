@@ -1,13 +1,23 @@
 # UJumpIJump
 微信跳一跳手动计算
 
+排行榜（该方法需要手动计算，所谓我算了2个小时才达到这个分数）：
+![alt text](https://github.com/X-YI/UJumpIJump/blob/master/IMG_D555DB0BED90-1.png "Page Rank")
+
+
 核心数据文件，计算每个关键点坐标: 
 ![alt text](https://github.com/X-YI/UJumpIJump/blob/master/UJumpIJump.png "Kernal Concat Image File")
 
 
 给出了核心计算公式：
 
-time = dis * 1.26919674730879 + 119.103504309833
+time = dis * 1.26919674730879 + 119.103504309833（近距离拟合不好，需要手动往近处偏移一点）
+
+“769 准备跳跃！”
+
+“941 准备跳跃！”
+
+“521 准备跳跃！”
 
 核心指令：
 
